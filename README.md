@@ -6,12 +6,12 @@ Name: Matt
 Difficulty: Moderate
 
 ## Exercise 2
-Name: ----
+Name: Preston
 
 Difficulty: Hard
 
 ## Exercise 3
-Name: ----
+Name: Jimmy
 
 Difficulty: Moderate
 
@@ -26,11 +26,11 @@ Name: Beck
 Difficulty: Easy
 
 ## Exercise 6
-Name: ----
+Name: Gateston
 
 Difficulty: Hard
 
 ## Exercise 7
-Name: ----
+Name: David
 
 Difficulty: Moderate
