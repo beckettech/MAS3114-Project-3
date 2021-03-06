@@ -24,3 +24,16 @@ end
 fprintf('a basis for the solution set of the homogeneous system\n')
 fprintf('is formed by the columns of the matrix')
 C
+
+R = rref([A,b]);
+[m,n] = size(A);
+p=zeros(n,1);
+j = 1;
+for i=1:n
+    if(ismember(i, pivot_c))
+        p(i) = R(j, n+1);
+        j = j+1;
+    end
+end
+disp('particular solution of the non-homogeneous system is the vector')
+p

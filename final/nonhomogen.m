@@ -13,4 +13,8 @@ else
     disp('There are infinitely many solutions')
     homobasis_b(A, b);
 end
+syms Col(C), syms p
+fprintf('the general solution of the non-homogeneous system is\n') 
+fprintf('the column space of the matrix C translated by the vector p') 
+x=Col(C)+p
 x=[];
