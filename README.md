@@ -1,36 +1,36 @@
-# MAS3114-Project-2
+# MAS3114-Project-3
 
 ## Exercise 1
+Name: David
+
+Difficulty: Hard
+
+## Exercise 2
 Name: Matt
 
 Difficulty: Moderate
 
-## Exercise 2
-Name: Preston
+## Exercise 3
+Name: 
 
 Difficulty: Hard
-
-## Exercise 3
-Name: Jimmy
-
-Difficulty: Moderate
 
 ## Exercise 4
 Name: Beck
 
-Difficulty: Easy
+Difficulty: Moderate
 
 ## Exercise 5
-Name: Beck
+Name: 
 
-Difficulty: Easy
+Difficulty: Moderate
 
 ## Exercise 6
 Name: Gateston
 
-Difficulty: Hard
+Difficulty: Moderate
 
 ## Exercise 7
-Name: David
+Name: Gateston
 
-Difficulty: Moderate
+Difficulty: Easy
